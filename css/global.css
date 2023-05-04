@@ -1,0 +1,37 @@
+* {
+    font-family: 'Open Sans';
+}
+
+body {
+    font-family: 'Open Sans';
+    font-weight: 400;
+}
+
+h1, h2 {
+    font-size: 3.75em;
+    font-weight: 300;
+}
+
+h3, nav, footer {
+    font-size: 2.0625em;
+    font-weight: 300;
+}
+
+p {
+    font-size: 1.125rem; /*18px*/
+    font-weight: 400;
+}
+
+.footer-heading {
+    font-size: 2.063rem; /*33px*/
+    font-weight: 400;
+}
+
+.header-icon {
+    width: 50px;
+}
+
+.nav-links {
+    font-size: 1.313; /*21px*/
+    font-weight: 400;
+}

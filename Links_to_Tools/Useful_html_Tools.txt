@@ -1,0 +1,46 @@
+Links----to----tools
+
+
+PX to VW converter
+https://www.quick-tools.net/300px-to-vw-2543vp
+
+-------------------------------------------------------------------------------------------------------
+
+PX to VH converter(Not as useful)
+https://www.pixelconverter.com/px-to-vh-converter/
+
+------------------------------------------------------------------------------------------------------
+All Around converter page
+https://nekocalc.com/
+
+
+------------------------------------------------------------------------------------------------------
+
+UI Ideas
+https://dribbble.com/
+
+-------------------------------------------------------------------------------------------------------
+
+Naming Conventions
+https://getbem.com/
+
+https://css-tricks.com/growing-popularity-atomic-css/
+
+http://smacss.com/
+
+https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/
+
+
+https://bem-cheat-sheet.9elements.com/
+
+--------------------------------------------------------------------------------------------------------
+
+How to list your bootcamp on your resume
+
+https://resumeworded.com/blog/bootcamp-on-resume/
+
+------------------------------------------------------------------------------------------------------------------
+Reccomended units for css and HTML
+https://gist.github.com/basham/2175a16ab7c60ce8e001
+
+--------------------------------------------------------------------------------------------------------

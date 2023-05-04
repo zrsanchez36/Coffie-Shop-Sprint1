@@ -1,0 +1,157 @@
+.nav-container {
+    background-color: #FFF0ED;
+}
+
+.header-footer {
+    background-color: #FFF0ED;
+    background-size: contain;
+    width: 100%;
+    display: inline-block;
+}
+
+.product-price {
+    color: #5BACC3;
+    text-align: center;
+}
+
+.buttons-1 {
+    background-color: #5BACC3;
+    border: none;
+    color: white;
+    width: 180px;
+    padding: 20px;
+    font-size: 1.313rem; /*21px*/
+    font-weight: 400;
+}
+
+.discount-section-parent {
+    display: flex;
+}
+
+.discount-section {
+    width: 90%;
+    background-color: #393939;
+    color: white;
+    font-size: 45px;
+    text-align: center;
+    font-weight: 400;
+    justify-content: center;
+    flex: 1;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.bold-nitro {
+    font-weight: 700;
+}
+
+.weekdays {
+    font-family: 'Open Sans Bold';
+}
+
+.general-text{
+    font-weight: 400;
+}
+
+.nav-link-button {
+    font-size: 21px;
+    font-weight: 400;
+}
+
+.view-all {
+    padding: 1px;
+    color: white;
+    display: inline-block;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    vertical-align: middle;
+    margin-right: 45%;
+    margin-left: 35%;
+}
+
+.social-image-container {
+    width: 2.11vw;
+}
+
+.product-card {
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 10px;
+    box-shadow: 0 5px 9px -1px  rgba(0, 0, 0, 0.25);
+    align-items: center;
+    margin-right: 5%;
+    width: 330px;
+    height: 440px;
+    padding-top: 3.5%;
+}
+
+.nitro-section {
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+    padding-bottom: 10rem;
+}
+
+.nitro-section-1 {
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+    margin-left: 10%;
+    margin-right: 35%;
+    margin-bottom: 20%;
+}
+
+.big-coffee-container {
+    display: inline-block;
+    vertical-align: middle;
+    width: 549px; 
+    height: 986.4px; 
+    background-image: url("/assets/images/coffeebeans-hero.png"); 
+    background-size: cover;
+    margin-bottom: 50px;
+}
+
+.nitro-coffee-title {
+    margin-bottom: -1%;
+}
+
+.our-products {
+    display: block;
+}
+
+.center-product-text {
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
+
+.footer-style {
+    background-color: #FFF0ED;
+    width: 100%;
+    display: flex;
+    margin-top: 10%;
+}
+
+.address, .hours, .social {
+    flex: .25;
+    /*border: 2px solid blueviolet;*/
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.product {
+    text-align: center;
+}
+
+.product-image-container {
+    display:flex;
+    justify-content: center;
+}
+
+.products-center {
+    margin-left: 20%;
+    margin-right: 10%;
+    
+}
